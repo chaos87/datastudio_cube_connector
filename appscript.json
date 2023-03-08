@@ -1,0 +1,31 @@
+{
+    "dataStudio": {
+      "name": "Cube Connector - By Jonathan Barone",
+      "logoUrl": "https://avatars.githubusercontent.com/u/52467369?s=280&v=4",
+      "company": "",
+      "companyUrl": "",
+      "addonUrl": "",
+      "supportUrl": "",
+      "description": "Cube Connector allows Looker Studio to fetch data from your Cube deployment",
+      "sources": [
+        "cube"
+      ]
+    },
+    "timeZone": "Asia/Hong_Kong",
+    "dependencies": {
+      "libraries": [
+        {
+          "userSymbol": "LodashGS",
+          "libraryId": "1SQ0PlSMwndIuOAgtVJdjxsuXueECtY9OGejVDS37ckSVbMll73EXf2PW",
+          "version": "5"
+        },
+        {
+          "userSymbol": "OAuth2",
+          "version": "42",
+          "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF"
+        }
+      ]
+    },
+    "exceptionLogging": "STACKDRIVER",
+    "runtimeVersion": "V8"
+  }
