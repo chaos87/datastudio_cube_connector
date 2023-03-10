@@ -31,4 +31,8 @@ This file contains Datastudio cache helpers. I use it to cache request already p
 
 ### Utils.gs
 
-Various helper functions
+Various helper functions.
+
+### CubeConfig.gs
+
+Cube specific variables such as API url.
